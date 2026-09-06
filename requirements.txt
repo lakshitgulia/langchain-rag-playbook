@@ -15,3 +15,12 @@ sentence_transformers
 langchain_huggingface
 faiss-cpu
 langchain_chroma
+langchain-classic
+streamlit
+langchain-ollama
+langchain-groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
